@@ -1,0 +1,20 @@
+교재 다운로드
+https://shorturl.at/lnrEX
+
+어제 교육까지 최종 실습 코드
+https://shorturl.at/BFHK1
+압축 풀고, vs code로 열어서 터미널에서 cd client > npm install
+
+4/26 오전까지 실습최종코드
+https://shorturl.at/hjkT6
+
+오늘 궁금한 것 질문
+korea.gisdeveloper@gmail.com
+
+후처리
+https://docs.pmnd.rs/react-postprocessing/effects/bloom
+https://codesandbox.io/p/sandbox/react-postprocessing-ssao-smaa-and-bloom-demo-r9ujf?file=%2Fsrc%2Findex.js
+장면 퀄리티 상승
+
+디스코드
+https://discord.gg/MZFdC2pH
